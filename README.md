@@ -7,7 +7,7 @@ Personal Pages go --> [Here](https://zjx54959.github.io/)
 
 [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
 
-**一些统计信息:point_down:**
+**一些统计信息👇**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZJX54959)
 
