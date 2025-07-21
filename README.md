@@ -15,6 +15,7 @@ Personal Pages go --> [Here](https://zjx54959.github.io/)
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZJX54959)
 
+![RandomPic](https://t.alcy.cc/fj)
 
 <!--与其来看我不如去看看这些大佬们：https://github.com/ZJX54959?tab=stars -->
 
@@ -23,6 +24,7 @@ Personal Pages go --> [Here](https://zjx54959.github.io/)
 **最近在看：**
   - [ ] [[CVPR 2024 Highlight] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields ](https://github.com/ShijieZhou-UCLA/feature-3dgs)
   - [ ] [[TPAMI 2025] Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians](https://github.com/city-super/Octree-GS)
+  - [x] [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/graphdeco-inria/gaussian-splatting)
 
 <!--
 **ZJX54959/ZJX54959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
